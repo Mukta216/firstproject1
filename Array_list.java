@@ -8,7 +8,7 @@ public class Array_list {
 		
 		int[] salary;
 		salary= new int[10];
-		String month[]= {"Jan","Feb","Mar"};
+		String month[]= {"mar","april","may"};
 		System.out.println(month[0]);
 		System.out.println(month.length);
 		//System.out.println();
